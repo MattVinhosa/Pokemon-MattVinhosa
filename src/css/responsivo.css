@@ -79,7 +79,7 @@
   .lista-container{
 
     height:40vh;
-    width:52vh;
+    width:40vh;
     display:flex;
     gap: 8px;
     flex-wrap: wrap;
